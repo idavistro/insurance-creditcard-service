@@ -7,7 +7,7 @@
 		<mirror>
 			<id>nexus-public</id>
 			<name>Nexus Public Repository</name>
-			<url>http://nexus-ci-cd.apps.35.196.89.170.nip.io/repository/redhat-group</url>
+			<url>http://nexus-cicd.apps.openshift37rh.flnet.org/content/groups/public</url>
 			<mirrorOf>*</mirrorOf>
 		</mirror>
 	</mirrors>
